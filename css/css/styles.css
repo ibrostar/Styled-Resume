@@ -1,0 +1,165 @@
+body {
+
+  background-color: #c8dddf;
+  margin: 0px;
+  text-align: center; 
+  font-family: 'merriweather', serif;
+  font-size: 16px;
+  font-weight: normal;
+  
+  
+}
+img  {
+  
+  font-size: 5px;
+}
+.favi {
+   
+
+
+}
+.ibro-star {
+  width: 25%;
+}
+.profile {
+
+font-size: 20px;
+}
+.skill-row {
+  font-size: 30px;
+  
+
+  
+}
+.ibro-star {
+  
+  font-size: 30px;
+  margin: 15px;
+  padding: 15px;
+}
+
+
+}
+/* starts */
+
+
+
+h1 {
+  font-size: 5.62em;
+  margin: 50px,auto, 0, auto;
+  color: #66BFBF;
+  line-height: double;
+
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+stars
+h3 {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  color:  #11999E;
+}
+hr {
+ border: dotted #EAF6f6 6px;
+ border-bottom: none;
+ width: 4%;
+ margin: 100%, auto;
+
+}
+h4 {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  color: #11999E;
+}
+.top-container {
+  
+ 
+ 
+}
+a {
+
+  color: #11999e;
+  font-family: 'Montserrat Subrayada', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.skills2 {
+
+  font-size: smaller;
+  margin: 0px;
+  padding: 0mm;
+  font-size-adjust: inherit;
+}
+.skill-raw {
+  font-size: smaller;
+
+}
+.middle-container {
+
+
+  
+  
+}
+.bottom-container {
+  background: #66bfbf;
+  text-decoration: none;
+ 
+  
+  
+}
+.skills {
+  font-size: 20px;
+}
+.top-cloud {
+  position: absolute;
+  right: 78px;
+  top: 50px;
+}
+.contact-message {
+  margin-top: 20px;
+  line-height: 2;
+  text-decoration: none;
+  
+
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 60px;
+  bottom: 300px;
+  width: 15%;
+
+}
+img {
+   
+  font-size: smaller;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #1199e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #1199e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #1199e);
+  background-image: -o-linear-gradient(top, #11cdd4, #1199e);
+  background-image: linear-gradient(to bottom, #11cdd4, #1199e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat Subrayada', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3ceeb;
+  background-image: -webkit-linear-gradient(top, #3ceeb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #3ceeb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #3ceeb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #3ceeb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #3ceeb, #2bc4ad);
+  text-decoration: none;
+}
